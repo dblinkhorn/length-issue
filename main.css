@@ -1,0 +1,23 @@
+body {
+    background: #333;
+    padding-top: 5em;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+  }
+
+  .typewriterDiv1 {
+      border-style: solid;
+      border-width: 2px;
+      border-color: blue;
+      width: 200px;
+      height: 50px;
+  }
+
+  .typewriterDiv2 {
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+    width: 200px;
+    height: 50px;
+}
